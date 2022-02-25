@@ -1,8 +1,9 @@
 # Reinforcement Learning with Dual-Observation
-The implementation of Reinforcement Learning with Dual-Observation technique.
+This is the implementation of the paper "Reinforcement Learning with Dual-Observation for General Video Game Playing".
 
 The basic reinfocement learning algorithm is adapted from [stable-baseline3](https://github.com/DLR-RM/stable-baselines3)
 
+Check [Generic Video Game Competition (GVGAI) Learning framework](https://github.com/SUSTechGameAI/GVGAI_GYM) from game environment.
 ### Requirments:
 
 ```
