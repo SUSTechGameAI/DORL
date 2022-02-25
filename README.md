@@ -1,5 +1,6 @@
 # DORL
-The implementation of Reinforcement Learning with Dual-Observation
+The implementation of Reinforcement Learning with Dual-Observation.
+The Reinforcement learning algorithm is adpated from [stable-baseline3](https://github.com/DLR-RM/stable-baselines3)
 
 ### Requirments:
 
